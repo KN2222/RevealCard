@@ -1,0 +1,22 @@
+{
+  "name": "revealcard",
+  "version": "1.0.0",
+  "description": "Private package",
+  "main": "index.js",
+  "scripts": {
+    "test": "0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KN2222/RevealCard.git"
+  },
+  "keywords": [
+    "card"
+  ],
+  "author": "Khang Tran",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/KN2222/RevealCard/issues"
+  },
+  "homepage": "https://github.com/KN2222/RevealCard#readme"
+}
